@@ -8,9 +8,9 @@
 
 /*  General Styling
 /*-----------------------------------------------------------------------------------*/
-
 body {
   background: #f2f2f2
+cursor: url('http://www.gravatar.com/avatar/06ededb95f1c0b1f4f9d987e06d7d82b?s=32&d=identicon&r=PG'), pointer;
   color: #898989;
   font-family: 'Poppins', helvetica;
   font-size: 15px;
@@ -207,6 +207,8 @@ p {
   margin-bottom: 0;
   text-align: left;
 }
+
+
 
 /*-----------------------------------------------------------------------------------*/
 /*   Services
